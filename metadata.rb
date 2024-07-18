@@ -1,4 +1,4 @@
-name              'openstackclient'
+name              'rcs-openstackclient'
 maintainer        'OpenStack'
 maintainer_email  'openstack-discuss@lists.openstack.org'
 license           'Apache-2.0'
